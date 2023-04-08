@@ -1,0 +1,1 @@
+![Logo of Blockpoint](../.art/logo-banner.png)
